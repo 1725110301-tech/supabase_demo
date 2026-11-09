@@ -1,7 +1,6 @@
 $def with (contactos)
 
 <h2>Contactos</h2>
-$contactos
 <table border="1" style="background-color: aqua; padding: 5px;" >
    
   <tr>
@@ -10,6 +9,10 @@ $contactos
     <th>Teléfono</th>
     <th>Email</th>
 </tr>
+
+<table border="1">
+  <tr><th>ID</th><th>Nombre</th><th>Teléfono</th><th>Email</th></tr>
+
   $for c in contactos:
     <tr>
       <td>$c['id_contacto']</td>
