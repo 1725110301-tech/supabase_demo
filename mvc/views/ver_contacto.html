@@ -4,16 +4,16 @@ $def with (contacto)
 $if contacto:
     <form>
         <label for="nombre">Nombre</label>
-        <input type="text" id="nombre" value="$contacto['nombre']" readonly><br>
+        <input type="text" id="nombre" value="$contacto['nombre']" readonly><br><br>
 
         <label for="email">Email</label>
-        <input type="text" id="email" value="$contacto['email']" readonly><br>
+        <input type="text" id="email" value="$contacto['email']" readonly><br><br>
 
         <label for="telefono">Teléfono</label>
-        <input type="text" id="telefono" value="$contacto['telefono']" readonly><br>
+        <input type="text" id="telefono" value="$contacto['telefono']" readonly><br><br>
 
-        <button type="button" onclick="location.href='/contactos';">Regresar</button>
+        <button type="button" onclick="location.href='/contactos';">Regresar</button><br>
     </form>
 $else:
     <h2>Contacto no encontrado</h2>
-    <button type="button" onclick="location.href='/contactos';">Regresar</button>
+    <button type="button" onclick="location.href='/contactos';">Regresar</button><br>

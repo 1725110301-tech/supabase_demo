@@ -4,15 +4,15 @@ $def with (contacto)
 
 <form method="POST">
     <label for="nombre">Nombre</label>
-    <input type="text" name="nombre" id="nombre" value="$contacto['nombre']" readonly><br>
+    <input type="text" name="nombre" id="nombre" value="$contacto['nombre']" readonly><br><br>
 
     <label for="email">Email</label>
-    <input type="text" name="email" id="email" value="$contacto['email']" readonly><br>
+    <input type="text" name="email" id="email" value="$contacto['email']" readonly><br><br>
 
     <label for="telefono">Teléfono</label>
-    <input type="text" name="telefono" id="telefono" value="$contacto['telefono']" readonly><br>
+    <input type="text" name="telefono" id="telefono" value="$contacto['telefono']" readonly><br><br>
 
     <button type="submit">Borrar contacto</button>
-    <button type="button" onclick="location.href='/contactos';" >Regresar</button>
+    <button type="button" onclick="location.href='/contactos';" >Regresar</button><br>
  
 </form>

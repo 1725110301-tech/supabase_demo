@@ -4,14 +4,14 @@ $def with (contacto)
 
 <form method="POST">
     <label for="nombre">Nombre</label>
-    <input type="text" name="nombre" id="nombre" value="$contacto['nombre']" required><br>
+    <input type="text" name="nombre" id="nombre" value="$contacto['nombre']" required><br><br>
 
     <label for="email">Email</label>
-    <input type="text" name="email" id="email" value="$contacto['email']" required><br>
+    <input type="text" name="email" id="email" value="$contacto['email']" required><br><br>
 
     <label for="telefono">Teléfono</label>
-    <input type="text" name="telefono" id="telefono" value="$contacto['telefono']" required><br>
+    <input type="text" name="telefono" id="telefono" value="$contacto['telefono']" required><br><br>
 
-    <button type="submit" onclick="location.href='/contactos';" >Actualizar</button>
+    <button type="submit" onclick="location.href='/contactos';" >Actualizar</button><br>
     <a href="/contactos">Cancelar</a>
 </form>
