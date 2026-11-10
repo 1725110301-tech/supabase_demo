@@ -1,12 +1,20 @@
 import web
 from mvc.controllers.index import Index
 from mvc.controllers.contactos import Contactos
+from mvc.controllers.insertar_contacto import InsertarContacto
+from mvc.controllers.ver_contacto import VerContacto
+from mvc.controllers.editar_contacto import EditarContacto
+from mvc.controllers.borrar_contacto import BorrarContacto
 
 
-web.config.debug = False
+web.config.debug = False    
 urls = (
     '/', 'Index',
     '/contactos', 'Contactos',
+    '/insertar_contacto', 'InsertarContacto',
+    '/ver_contacto/(.*)','VerContacto',
+    '/editar_contacto/(.*)', 'EditarContacto',
+    '/borrar_contacto/(.*)', 'BorrarContacto',
 )
 app = web.application(urls, globals())
  

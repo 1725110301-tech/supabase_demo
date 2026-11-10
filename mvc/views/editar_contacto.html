@@ -1,0 +1,17 @@
+$def with (contacto)
+
+<h2>Editar contacto</h2>
+
+<form method="POST">
+    <label for="nombre">Nombre</label>
+    <input type="text" name="nombre" id="nombre" value="$contacto['nombre']" required><br>
+
+    <label for="email">Email</label>
+    <input type="text" name="email" id="email" value="$contacto['email']" required><br>
+
+    <label for="telefono">Teléfono</label>
+    <input type="text" name="telefono" id="telefono" value="$contacto['telefono']" required><br>
+
+    <button type="submit" onclick="location.href='/contactos';" >Actualizar</button>
+    <a href="/contactos">Cancelar</a>
+</form>

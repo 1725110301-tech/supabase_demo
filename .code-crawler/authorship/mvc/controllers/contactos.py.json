@@ -2,577 +2,211 @@
   "filePath": "mvc\\controllers\\contactos.py",
   "lines": [
     {
-      "line": 0,
-<<<<<<< Updated upstream
-      "author": "ai",
-      "confidence": 0.4294117647058824,
-      "aiEdits": 1,
-      "humanEdits": 0,
-      "lastEditType": "ai",
-      "lastEditTimestamp": 1793982024150,
-=======
-      "author": "human",
-      "confidence": 0.92,
-      "aiEdits": 0,
-      "humanEdits": 1,
-      "lastEditType": "human",
-      "lastEditTimestamp": 1793939378884,
->>>>>>> Stashed changes
-      "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.95,
-        "cursorMovement": 0.3,
-        "editSequence": 0.8300000000000001,
-        "undoFrequency": 0.1,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.15,
-<<<<<<< Updated upstream
-        "pastePattern": 0.5,
-        "deletionPattern": 0.5,
-=======
-        "pastePattern": 0.2,
-        "deletionPattern": 0.15,
->>>>>>> Stashed changes
-        "pausePattern": 0.5
-      }
-    },
-    {
-      "line": 1,
-<<<<<<< Updated upstream
-      "author": "ai",
-      "confidence": 0.4294117647058824,
-      "aiEdits": 1,
-      "humanEdits": 0,
-      "lastEditType": "ai",
-      "lastEditTimestamp": 1793982024150,
-=======
-      "author": "human",
-      "confidence": 0.92,
-      "aiEdits": 0,
-      "humanEdits": 1,
-      "lastEditType": "human",
-      "lastEditTimestamp": 1793939378884,
->>>>>>> Stashed changes
-      "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.95,
-        "cursorMovement": 0.3,
-        "editSequence": 0.8300000000000001,
-        "undoFrequency": 0.1,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.15,
-<<<<<<< Updated upstream
-        "pastePattern": 0.5,
-        "deletionPattern": 0.5,
-=======
-        "pastePattern": 0.2,
-        "deletionPattern": 0.15,
->>>>>>> Stashed changes
-        "pausePattern": 0.5
-      }
-    },
-    {
-      "line": 2,
-<<<<<<< Updated upstream
-      "author": "ai",
-      "confidence": 0.4294117647058824,
-      "aiEdits": 1,
-      "humanEdits": 0,
-      "lastEditType": "ai",
-      "lastEditTimestamp": 1793982024150,
-=======
-      "author": "human",
-      "confidence": 0.92,
-      "aiEdits": 0,
-      "humanEdits": 1,
-      "lastEditType": "human",
-      "lastEditTimestamp": 1793939378884,
->>>>>>> Stashed changes
-      "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.95,
-        "cursorMovement": 0.3,
-        "editSequence": 0.8300000000000001,
-        "undoFrequency": 0.1,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.15,
-<<<<<<< Updated upstream
-        "pastePattern": 0.5,
-        "deletionPattern": 0.5,
-=======
-        "pastePattern": 0.2,
-        "deletionPattern": 0.15,
->>>>>>> Stashed changes
-        "pausePattern": 0.5
-      }
-    },
-    {
-      "line": 3,
-<<<<<<< Updated upstream
-      "author": "ai",
-      "confidence": 0.4294117647058824,
-      "aiEdits": 1,
-      "humanEdits": 0,
-      "lastEditType": "ai",
-      "lastEditTimestamp": 1793982024150,
-=======
-      "author": "human",
-      "confidence": 0.92,
-      "aiEdits": 0,
-      "humanEdits": 1,
-      "lastEditType": "human",
-      "lastEditTimestamp": 1793939378884,
->>>>>>> Stashed changes
-      "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.95,
-        "cursorMovement": 0.3,
-        "editSequence": 0.8300000000000001,
-        "undoFrequency": 0.1,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.15,
-<<<<<<< Updated upstream
-        "pastePattern": 0.5,
-        "deletionPattern": 0.5,
-=======
-        "pastePattern": 0.2,
-        "deletionPattern": 0.15,
->>>>>>> Stashed changes
-        "pausePattern": 0.5
-      }
-    },
-    {
-      "line": 4,
-<<<<<<< Updated upstream
-      "author": "ai",
-      "confidence": 0.4294117647058824,
-      "aiEdits": 1,
-      "humanEdits": 0,
-      "lastEditType": "ai",
-      "lastEditTimestamp": 1793982024150,
-      "signals": {
-        "typingRhythm": 0.5,
-        "editSize": 0.95,
-        "cursorMovement": 0.5,
-        "editSequence": 0.5,
-        "undoFrequency": 0.5,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.15,
-        "pastePattern": 0.5,
-        "deletionPattern": 0.5,
-=======
-      "author": "human",
-      "confidence": 0.92,
-      "aiEdits": 0,
-      "humanEdits": 1,
-      "lastEditType": "human",
-      "lastEditTimestamp": 1793939378884,
-      "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.95,
-        "cursorMovement": 0.3,
-        "editSequence": 0.8300000000000001,
-        "undoFrequency": 0.1,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.15,
-        "pastePattern": 0.2,
-        "deletionPattern": 0.15,
->>>>>>> Stashed changes
-        "pausePattern": 0.5
-      }
-    },
-    {
-      "line": 5,
-<<<<<<< Updated upstream
-      "author": "ai",
-      "confidence": 0.4294117647058824,
-      "aiEdits": 1,
-      "humanEdits": 0,
-      "lastEditType": "ai",
-      "lastEditTimestamp": 1793982024150,
-      "signals": {
-        "typingRhythm": 0.5,
-        "editSize": 0.95,
-        "cursorMovement": 0.5,
-        "editSequence": 0.5,
-        "undoFrequency": 0.5,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.15,
-        "pastePattern": 0.5,
-        "deletionPattern": 0.5,
-        "pausePattern": 0.5
-      }
-    },
-    {
       "line": 6,
-      "author": "ai",
-      "confidence": 0.4294117647058824,
-      "aiEdits": 1,
-      "humanEdits": 0,
-      "lastEditType": "ai",
-      "lastEditTimestamp": 1793982024150,
-      "signals": {
-        "typingRhythm": 0.5,
-        "editSize": 0.95,
-        "cursorMovement": 0.5,
-        "editSequence": 0.5,
-        "undoFrequency": 0.5,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.15,
-        "pastePattern": 0.5,
-        "deletionPattern": 0.5,
-        "pausePattern": 0.5
-      }
-    },
-    {
-      "line": 7,
-      "author": "ai",
-      "confidence": 0.4294117647058824,
-      "aiEdits": 1,
-      "humanEdits": 0,
-      "lastEditType": "ai",
-      "lastEditTimestamp": 1793982024150,
-      "signals": {
-        "typingRhythm": 0.5,
-        "editSize": 0.95,
-        "cursorMovement": 0.5,
-        "editSequence": 0.5,
-        "undoFrequency": 0.5,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.15,
-        "pastePattern": 0.5,
-        "deletionPattern": 0.5,
-        "pausePattern": 0.5
-      }
-    },
-    {
-      "line": 8,
-      "author": "mixed",
-      "confidence": 0.4294117647058824,
-      "aiEdits": 1,
-      "humanEdits": 3,
-      "lastEditType": "human",
-      "lastEditTimestamp": 1793982838332,
-      "signals": {
-        "typingRhythm": 0.5,
-        "editSize": 0.95,
-        "cursorMovement": 0.5,
-        "editSequence": 0.5,
-        "undoFrequency": 0.5,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.15,
-        "pastePattern": 0.5,
-        "deletionPattern": 0.5,
-        "pausePattern": 0.5
-      }
-    },
-    {
-      "line": 9,
       "author": "human",
-      "confidence": 0.3733333333333333,
-      "aiEdits": 1,
-      "humanEdits": 10,
-      "lastEditType": "human",
-      "lastEditTimestamp": 1793982380929,
-      "signals": {
-        "typingRhythm": 0.3,
-        "editSize": 0.07999999999999996,
-        "cursorMovement": 0.3,
-        "editSequence": 0.8300000000000001,
-        "undoFrequency": 0.5,
-=======
-      "author": "human",
-      "confidence": 0.92,
+      "confidence": 0.7,
       "aiEdits": 0,
-      "humanEdits": 2,
+      "humanEdits": 1,
       "lastEditType": "human",
-      "lastEditTimestamp": 1793946868024,
+      "lastEditTimestamp": 1794230318654,
       "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.5,
-        "cursorMovement": 0.1,
-        "editSequence": 0.8300000000000001,
-        "undoFrequency": 0.1,
->>>>>>> Stashed changes
+        "typingRhythm": 0.5,
+        "editSize": 0.15000000000000002,
+        "cursorMovement": 0.5,
+        "editSequence": 0.5,
+        "undoFrequency": 0.5,
         "extensionSource": 0.5,
         "velocityProfile": 0.5,
         "selectionPattern": 0.5,
-        "pastePattern": 0.2,
+        "pastePattern": 0.5,
         "deletionPattern": 0.5,
         "pausePattern": 0.5
-      }
-    },
-    {
-      "line": 6,
-      "author": "human",
-      "confidence": 0.92,
-      "aiEdits": 0,
-      "humanEdits": 7,
-      "lastEditType": "human",
-      "lastEditTimestamp": 1793946871181,
-      "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.07999999999999996,
-        "cursorMovement": 0.3,
-        "editSequence": 0.8300000000000001,
-        "undoFrequency": 0.1,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.5,
-        "pastePattern": 0.2,
-        "deletionPattern": 0.15,
-        "pausePattern": 0.5
-      }
-    },
-    {
-      "line": 7,
-      "author": "human",
-      "confidence": 0.92,
-      "aiEdits": 0,
-      "humanEdits": 2,
-      "lastEditType": "human",
-      "lastEditTimestamp": 1793947036681,
-      "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.5,
-        "cursorMovement": 0.3,
-        "editSequence": 0.67,
-        "undoFrequency": 0.1,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.7,
-        "pastePattern": 0.2,
-        "deletionPattern": 0.15,
-        "pausePattern": 0.15
-      }
-    },
-    {
-      "line": 8,
-      "author": "human",
-      "confidence": 0.92,
-      "aiEdits": 0,
-      "humanEdits": 2,
-      "lastEditType": "human",
-      "lastEditTimestamp": 1793947036680,
-      "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.5,
-        "cursorMovement": 0.3,
-        "editSequence": 0.67,
-        "undoFrequency": 0.1,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.7,
-        "pastePattern": 0.2,
-        "deletionPattern": 0.15,
-        "pausePattern": 0.15
-      }
-    },
-    {
-      "line": 9,
-      "author": "human",
-      "confidence": 0.92,
-      "aiEdits": 0,
-      "humanEdits": 2,
-      "lastEditType": "human",
-      "lastEditTimestamp": 1793947036680,
-      "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.5,
-        "cursorMovement": 0.3,
-        "editSequence": 0.67,
-        "undoFrequency": 0.1,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.7,
-        "pastePattern": 0.2,
-        "deletionPattern": 0.15,
-        "pausePattern": 0.15
-      }
-    },
-    {
-      "line": 10,
-      "author": "human",
-      "confidence": 0.92,
-      "aiEdits": 0,
-      "humanEdits": 7,
-      "lastEditType": "human",
-      "lastEditTimestamp": 1793947036680,
-      "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.5,
-        "cursorMovement": 0.3,
-        "editSequence": 0.8300000000000001,
-        "undoFrequency": 0.1,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.7,
-        "pastePattern": 0.2,
-        "deletionPattern": 0.15,
-        "pausePattern": 0.15
-      }
-    },
-    {
-      "line": 11,
-      "author": "human",
-      "confidence": 0.92,
-      "aiEdits": 0,
-      "humanEdits": 59,
-      "lastEditType": "human",
-      "lastEditTimestamp": 1793947036680,
-      "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.5,
-        "cursorMovement": 0.3,
-        "editSequence": 0.8300000000000001,
-        "undoFrequency": 0.1,
-        "extensionSource": 0.5,
-        "velocityProfile": 0.5,
-        "selectionPattern": 0.7,
-        "pastePattern": 0.2,
-        "deletionPattern": 0.15,
-        "pausePattern": 0.15
       }
     },
     {
       "line": 12,
       "author": "human",
-      "confidence": 0.92,
+      "confidence": 0.7,
       "aiEdits": 0,
-      "humanEdits": 54,
+      "humanEdits": 1,
       "lastEditType": "human",
-      "lastEditTimestamp": 1793947063846,
+      "lastEditTimestamp": 1794230324315,
       "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.5,
-        "cursorMovement": 0.3,
-        "editSequence": 0.67,
-        "undoFrequency": 0.1,
+        "typingRhythm": 0.5,
+        "editSize": 0.15000000000000002,
+        "cursorMovement": 0.5,
+        "editSequence": 0.5,
+        "undoFrequency": 0.5,
         "extensionSource": 0.5,
         "velocityProfile": 0.5,
         "selectionPattern": 0.5,
-        "pastePattern": 0.2,
-        "deletionPattern": 0.15,
-        "pausePattern": 0.15
+        "pastePattern": 0.5,
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
       }
     },
     {
       "line": 13,
       "author": "human",
-      "confidence": 0.92,
+      "confidence": 0.40959999999999996,
       "aiEdits": 0,
-      "humanEdits": 10,
+      "humanEdits": 2,
       "lastEditType": "human",
-      "lastEditTimestamp": 1793949514271,
+      "lastEditTimestamp": 1794230350501,
       "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.07999999999999996,
-        "cursorMovement": 0.3,
-        "editSequence": 0.67,
-        "undoFrequency": 0.1,
+        "typingRhythm": 0.675,
+        "editSize": 0.19999999999999996,
+        "cursorMovement": 0.1,
+        "editSequence": 0.43599999999999994,
+        "undoFrequency": 0.5,
         "extensionSource": 0.5,
         "velocityProfile": 0.5,
-        "selectionPattern": 0.5,
+        "selectionPattern": 0.7,
         "pastePattern": 0.2,
-        "deletionPattern": 0.15,
-        "pausePattern": 0.15
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
       }
     },
     {
       "line": 14,
       "author": "human",
-      "confidence": 0.92,
+      "confidence": 0.16486486486486474,
       "aiEdits": 0,
-      "humanEdits": 2,
+      "humanEdits": 1,
       "lastEditType": "human",
-      "lastEditTimestamp": 1793949514900,
+      "lastEditTimestamp": 1794230345591,
       "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.07999999999999996,
-        "cursorMovement": 0.5,
-        "editSequence": 0.67,
-        "undoFrequency": 0.1,
+        "typingRhythm": 0.675,
+        "editSize": 0.5,
+        "cursorMovement": 0.1,
+        "editSequence": 0.5,
+        "undoFrequency": 0.5,
         "extensionSource": 0.5,
-        "velocityProfile": 0.8,
-        "selectionPattern": 0.5,
-        "pastePattern": 0.2,
-        "deletionPattern": 0.15,
-        "pausePattern": 0.15
+        "velocityProfile": 0.5,
+        "selectionPattern": 0.15,
+        "pastePattern": 0.5,
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
       }
     },
     {
       "line": 15,
       "author": "human",
-      "confidence": 0.92,
+      "confidence": 0.12046444121915822,
       "aiEdits": 0,
       "humanEdits": 2,
       "lastEditType": "human",
-      "lastEditTimestamp": 1793949515086,
+      "lastEditTimestamp": 1794230350501,
       "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.07999999999999996,
-        "cursorMovement": 0.5,
-        "editSequence": 0.8300000000000001,
-        "undoFrequency": 0.1,
+        "typingRhythm": 0.675,
+        "editSize": 0.5,
+        "cursorMovement": 0.1,
+        "editSequence": 0.43846153846153846,
+        "undoFrequency": 0.5,
         "extensionSource": 0.5,
-        "velocityProfile": 0.8,
-        "selectionPattern": 0.5,
+        "velocityProfile": 0.5,
+        "selectionPattern": 0.7,
         "pastePattern": 0.2,
-        "deletionPattern": 0.15,
-        "pausePattern": 0.15
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
       }
     },
     {
       "line": 16,
       "author": "human",
-      "confidence": 0.92,
+      "confidence": 0.12,
       "aiEdits": 0,
-      "humanEdits": 7,
+      "humanEdits": 2,
       "lastEditType": "human",
-      "lastEditTimestamp": 1793949517412,
+      "lastEditTimestamp": 1794230350501,
       "signals": {
-        "typingRhythm": 0.125,
-        "editSize": 0.15000000000000002,
-        "cursorMovement": 0.5,
-        "editSequence": 0.67,
-        "undoFrequency": 0.1,
+        "typingRhythm": 0.675,
+        "editSize": 0.5,
+        "cursorMovement": 0.1,
+        "editSequence": 0.44,
+        "undoFrequency": 0.5,
         "extensionSource": 0.5,
-        "velocityProfile": 0.8,
+        "velocityProfile": 0.5,
+        "selectionPattern": 0.7,
+        "pastePattern": 0.2,
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
+      }
+    },
+    {
+      "line": 17,
+      "author": "human",
+      "confidence": 0.1194511149228129,
+      "aiEdits": 0,
+      "humanEdits": 2,
+      "lastEditType": "human",
+      "lastEditTimestamp": 1794230350501,
+      "signals": {
+        "typingRhythm": 0.675,
+        "editSize": 0.5,
+        "cursorMovement": 0.1,
+        "editSequence": 0.44181818181818183,
+        "undoFrequency": 0.5,
+        "extensionSource": 0.5,
+        "velocityProfile": 0.5,
+        "selectionPattern": 0.7,
+        "pastePattern": 0.2,
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
+      }
+    },
+    {
+      "line": 18,
+      "author": "human",
+      "confidence": 0.5092307692307692,
+      "aiEdits": 0,
+      "humanEdits": 2,
+      "lastEditType": "human",
+      "lastEditTimestamp": 1794230354213,
+      "signals": {
+        "typingRhythm": 0.675,
+        "editSize": 0.15000000000000002,
+        "cursorMovement": 0.1,
+        "editSequence": 0.45,
+        "undoFrequency": 0.5,
+        "extensionSource": 0.5,
+        "velocityProfile": 0.5,
         "selectionPattern": 0.5,
         "pastePattern": 0.2,
-        "deletionPattern": 0.15,
+        "deletionPattern": 0.5,
         "pausePattern": 0.15
+      }
+    },
+    {
+      "line": 21,
+      "author": "human",
+      "confidence": 0.7,
+      "aiEdits": 0,
+      "humanEdits": 2,
+      "lastEditType": "human",
+      "lastEditTimestamp": 1794230327221,
+      "signals": {
+        "typingRhythm": 0.5,
+        "editSize": 0.15000000000000002,
+        "cursorMovement": 0.5,
+        "editSequence": 0.5,
+        "undoFrequency": 0.5,
+        "extensionSource": 0.5,
+        "velocityProfile": 0.5,
+        "selectionPattern": 0.5,
+        "pastePattern": 0.5,
+        "deletionPattern": 0.5,
+        "pausePattern": 0.5
       }
     }
   ],
   "summary": {
-<<<<<<< Updated upstream
-    "totalLines": 10,
-    "aiLines": 8,
-    "humanLines": 1,
-    "mixedLines": 1,
-    "aiPercentage": 80,
-    "humanPercentage": 10
-  },
-  "lastUpdated": 1793982839645
-=======
-    "totalLines": 17,
+    "totalLines": 9,
     "aiLines": 0,
-    "humanLines": 17,
+    "humanLines": 9,
     "mixedLines": 0,
     "aiPercentage": 0,
     "humanPercentage": 100
   },
-  "lastUpdated": 1793949747040
->>>>>>> Stashed changes
+  "lastUpdated": 1794242339120
 }
