@@ -1,0 +1,9 @@
+2026-11-12 13:18:35 [INFO] httpx: HTTP Request: GET https://qihuzjiytcvpjxizzefo.supabase.co/rest/v1/contactos?select=%2A "HTTP/2 200 OK"
+2026-11-12 13:18:56 [INFO] httpx: HTTP Request: GET https://qihuzjiytcvpjxizzefo.supabase.co/rest/v1/contactos?select=%2A&id_contacto=eq.4 "HTTP/2 200 OK"
+2026-11-12 13:18:59 [INFO] httpx: HTTP Request: GET https://qihuzjiytcvpjxizzefo.supabase.co/rest/v1/contactos?select=%2A "HTTP/2 200 OK"
+2026-11-12 13:20:40 [INFO] httpx: HTTP Request: GET https://qihuzjiytcvpjxizzefo.supabase.co/rest/v1/contactos?select=%2A "HTTP/2 200 OK"
+2026-11-12 13:20:52 [INFO] httpx: HTTP Request: POST https://qihuzjiytcvpjxizzefo.supabase.co/rest/v1/contactos "HTTP/2 201 Created"
+2026-11-12 13:26:26 [INFO] httpx: HTTP Request: GET https://qihuzjiytcvpjxizzefo.supabase.co/rest/v1/contactos?select=%2A "HTTP/2 401 Unauthorized"
+2026-11-12 13:26:26 [ERROR] mvc.models.model_contactos: Error 101: {'message': 'JSON could not be generated', 'code': 401, 'hint': 'Refer to full message for details', 'details': 'b\'{"message":"Invalid API key","hint":"Double check your API key."}\''}
+2026-11-12 13:28:14 [INFO] httpx: HTTP Request: GET https://qihuzjiytcvpjxizzefo.supabase.co/rest/v1/contactos?select=%2A "HTTP/2 200 OK"
+2026-11-12 13:28:15 [INFO] httpx: HTTP Request: GET https://qihuzjiytcvpjxizzefo.supabase.co/rest/v1/contactos?select=%2A "HTTP/2 200 OK"
