@@ -6,23 +6,22 @@ $def with (contactos)
 
 <table border="1">
   <tr>
-    <th>ID</th>
+    <th>Foto</th>
     <th>Nombre</th>
     <th>Teléfono</th>
     <th>Email</th>
     <th>Ver</th>
     <th>Editar</th>
     <th>Borrar</th>
-    
   </tr>
   $for c in contactos:
     <tr>
-      <td>$c['id_contacto']</td>
+      <td><img src="static/fotos/$c['foto']" height="50px" width="50px"></td>
       <td>$c['nombre']</td>
       <td>$c['telefono']</td>
       <td>$c['email']</td>
-      <td><a href="/ver_contacto/$c['id_contacto']">Ver</a></td>
-      <td><a href="/editar_contacto/$c['id_contacto']">Editar</a></td>
-      <td><a href="/borrar_contacto/$c['id_contacto']">Borrar contacto</a></td>
+      <td><a href="/ver_contacto/$c['hash']">Ver</a></td>
+      <td><a href="/editar_contacto/$c['hash']">Editar</a></td>
+      <td><a href="/borrar_contacto/$c['hash']">Borrar contacto</a></td>
     </tr>
 </table>

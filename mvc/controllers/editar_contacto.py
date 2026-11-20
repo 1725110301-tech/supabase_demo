@@ -4,16 +4,18 @@ from mvc.models.model_contactos import ModelContactos
 render = web.template.render('mvc/views', base='template')
 
 class EditarContacto:
-    def GET(self, id_contacto):
+    def GET(self, hash_contacto):
         modelo = ModelContactos()
-        resultado = modelo.buscarContacto(int(id_contacto))
+        resultado = modelo.buscarContacto(hash_contacto)
+        if not resultado:
+            return "<h1>Contacto no encontrado</h1><a href='/contactos'>Regresar</a>"
         return render.editar_contacto(resultado[0])
 
-    def POST(self, id_contacto):
+    def POST(self, hash_contacto):
         formulario = web.input()
         modelo = ModelContactos()
         modelo.actualizarContacto(
-            int(id_contacto),
+            hash_contacto,
             formulario['nombre'],
             formulario['telefono'],
             formulario['email']
